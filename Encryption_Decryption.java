@@ -1,6 +1,6 @@
 //Encrytion of text
 import java.util.Scanner;
-public class EncryptionDecryption    //File name
+public class Encryption_Decryption    //File name
 {
     
     public static String Encrytion(String message,String low,String up,String lower,String upper)
